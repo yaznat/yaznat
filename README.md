@@ -17,7 +17,7 @@ I conduct undergraduate research in human activity recognition as a part of [Har
 Feedback | *HealthInf 2026 Extended Publication* | **First Author** | **Accepted; forthcoming**
 - [Accelerometer-Based MET Estimation for Wearable Energy Expenditure Monitoring](https://www.scitepress.org/Link.aspx?doi=10.5220/0014485800004070) | *BIOSTEC 2026*
 
-## Selected Projects
+## Projects
 
 ### [Stanley/Penguin Assembler](https://github.com/yaznat/stanley-penguin-assembler)
 
@@ -28,3 +28,11 @@ An assembler and interpreter for the theoretical Stanley/Penguin assembly langua
 Neural network and complete [MNIST](https://en.wikipedia.org/wiki/MNIST_database) training and evaluation pipeline implemented in Stanley/Penguin assembly.
 
 **Challenges:** single accumulator, fixed-point representation for integer arithmetic, custom-implemented call stack.
+
+### [JFlow - Deep Learning Library in Java](https://github.com/yaznat/jflow-deprecated)
+
+A deep learning library with a Keras-similar interface. Checkpointing, debugging, and complex model creation and training.
+
+### [GPT-2 In Java](https://github.com/yaznat/gpt2-java)
+
+A complete implementation of **GPT-2 Small** in Java using JFlow. Transformer layers, pretraining, instruction-tuning. Includes trained weights and a chat demo.
